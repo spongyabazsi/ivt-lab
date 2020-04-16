@@ -17,6 +17,8 @@ public interface SpaceShip {
   /**
   * Fires the torpedo stores of the ship
   * extra line
+  * extra line branch b
+  
   * @param firingMode how many torpedo stores to fire
   * @return whether the fire command was successful
   */
